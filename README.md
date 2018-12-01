@@ -1,6 +1,6 @@
 # hello-world
 Just my first repository for testing.
-I dable a little in P5.js, Node.js, and c#
+I dable a little in P5.js, Node.js, and c#. 
 Checklist (x: finished, o:unfinished):
 - x Make a repository,
 - x Make a branch,
